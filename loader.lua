@@ -17,7 +17,7 @@ task.spawn(function()
             -- PC
             loadstring(game:HttpGet("https://raw.githubusercontent.com/f3a2/nfluniverse/refs/heads/main/nfluniversescript.lua"))()
         end
-    elseif PlaceID == 2569453732 or PlaceID == 3095043503then -- Rise of Nations + Gameplay
+    elseif PlaceID == 2569453732 or PlaceID == 3095043503 then -- Rise of Nations + Gameplay
         loadstring(game:HttpGet("https://raw.githubusercontent.com/uej2/riseofnations/refs/heads/main/RonX"))()
     elseif PlaceID == 14259168147 or PlaceID == 14386691987 then -- Basketball Legends + Park
         loadstring(game:HttpGet("https://raw.githubusercontent.com/f3a2/basketballlegendsX/refs/heads/main/BasketballLegendsKali.lua"))()
